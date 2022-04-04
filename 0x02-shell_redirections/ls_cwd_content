@@ -1,0 +1,14 @@
+total 18
+drwxr-xr-x 1 aawsa 197121  0 Apr  4 15:50 .
+drwxr-xr-x 1 aawsa 197121  0 Apr  4 11:27 ..
+-rwxr-xr-x 1 aawsa 197121 32 Apr  4 12:17 0-hello_world
+-rwxr-xr-x 1 aawsa 197121 30 Apr  4 13:20 1-confused_smiley
+-rwxr-xr-x 1 aawsa 197121 29 Apr  4 13:23 2-hellofile
+-rwxr-xr-x 1 aawsa 197121 39 Apr  4 13:27 3-twofiles
+-rwxr-xr-x 1 aawsa 197121 30 Apr  4 13:32 4-lastlines
+-rwxr-xr-x 1 aawsa 197121 30 Apr  4 13:34 5-firstlines
+-rwxr-xr-x 1 aawsa 197121 40 Apr  4 13:43 6-third_line
+-rwxr-xr-x 1 aawsa 197121 85 Apr  4 15:13 7-file
+-rwxr-xr-x 1 aawsa 197121 36 Apr  4 15:47 8-cwd_state
+-rw-r--r-- 1 aawsa 197121 25 Apr  4 11:51 README.md
+-rw-r--r-- 1 aawsa 197121  0 Apr  4 15:50 ls_cwd_content
