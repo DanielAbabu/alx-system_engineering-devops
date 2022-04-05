@@ -1,2 +1,2 @@
 #!/bin/bash
-USER="$(id -un)" ; echo hello $USER
+USER="$(id -un)" echo hello $USER
